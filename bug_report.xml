@@ -1,1 +1,21 @@
+<bug_report>
+  <Issue Title>...</Issue Title>
+  <Issue Type>Bug</Issue Title>
+  <Priority>Low</Priority>
+  <Issue Status>Blocked</Issue Status>
+  <Severety>High</Severety>
+  <Build>...</Build> 
+  <Environment>...</Environment>
 
+  <Issue Description>
+  <Steps to reproduce>
+    1...,
+    2...,
+    3...,
+    4...,
+    5....
+    </Steps to reproduce> </Issue Description>
+
+  <Expected Result>...</Expected Result>
+  <Actual Result>...</Actual Result>
+</bug_report>
